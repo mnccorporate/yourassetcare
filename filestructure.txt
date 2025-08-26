@@ -1,0 +1,209 @@
+|-- about.php
+|-- admin
+    |-- add-property.php
+    |-- dashboard.php
+    |-- edit-property.php
+    |-- messages.php
+    |-- properties.php
+    |-- users.php
+|-- classes
+    |-- Contact.php
+    |-- Property.php
+    |-- User.php
+|-- config
+    |-- database.php
+    |-- session.php
+|-- contact.php
+|-- css
+    |-- animate.css
+    |-- apexcharts.html
+    |-- bootstrap.min.css
+    |-- jquery.fancybox.min.css
+    |-- jqueryui.min.css
+    |-- nouislider.min.html
+    |-- owl.html
+    |-- styles.css
+    |-- swiper-bundle.min.css
+|-- dashboard.php
+|-- fonts
+    |-- font-icons.css
+    |-- fonts.css
+    |-- icomoondb7a.eot
+    |-- icomoondb7a.svg
+    |-- icomoondb7a.ttf
+    |-- icomoondb7a.woff
+|-- images
+    |-- agents
+        |-- agent-1.jpg
+        |-- agent-2.jpg
+        |-- agent-3.jpg
+        |-- agent-4.jpg
+        |-- agent-lg-1.jpg
+        |-- agent-lg-2.jpg
+        |-- agent-lg-3.jpg
+        |-- agent-lg-4.jpg
+        |-- agent-sm-1.jpg
+        |-- agent-sm-2.jpg
+        |-- agent-sm-3.jpg
+        |-- agent-sm-4.jpg
+    |-- avatar
+        |-- account-2.jpg
+        |-- account.jpg
+        |-- avt-1.jpg
+        |-- avt-10.jpg
+        |-- avt-11.jpg
+        |-- avt-12.jpg
+        |-- avt-13.jpg
+        |-- avt-14.jpg
+        |-- avt-2.jpg
+        |-- avt-3.jpg
+        |-- avt-4.jpg
+        |-- avt-5.jpg
+        |-- avt-6.jpg
+        |-- avt-7.jpg
+        |-- avt-8.jpg
+        |-- avt-9.jpg
+        |-- cursor-sw.png
+    |-- banner
+        |-- banner-footer.png
+        |-- banner-property-1.jpg
+        |-- banner-property-10.jpg
+        |-- banner-property-11.jpg
+        |-- banner-property-12.jpg
+        |-- banner-property-13.jpg
+        |-- banner-property-2.jpg
+        |-- banner-property-3.jpg
+        |-- banner-property-4.jpg
+        |-- banner-property-5.jpg
+        |-- banner-property-6.jpg
+        |-- banner-property-7.jpg
+        |-- banner-property-8.jpg
+        |-- banner-property-9.jpg
+        |-- banner-tes.jpg
+        |-- banner.png
+        |-- floor.png
+        |-- img-explore.jpg
+        |-- img-video.jpg
+        |-- properties.jpg
+        |-- thumb-sw1.jpg
+        |-- thumb-sw2.jpg
+        |-- thumb-sw3.jpg
+        |-- thumb-sw4.jpg
+        |-- thumb-sw5.jpg
+        |-- thumb-sw6.jpg
+        |-- thumb-sw7.jpg
+        |-- thumb-sw8.jpg
+    |-- home
+        |-- file-1.png
+        |-- file-2.png
+        |-- house-1.jpg
+        |-- house-10.jpg
+        |-- house-11.jpg
+        |-- house-12.jpg
+        |-- house-13.jpg
+        |-- house-2.jpg
+        |-- house-3.jpg
+        |-- house-4.jpg
+        |-- house-5.jpg
+        |-- house-6.jpg
+        |-- house-7.jpg
+        |-- house-8.jpg
+        |-- house-9.jpg
+        |-- house-service.jpg
+        |-- house-sm-1.jpg
+        |-- house-sm-10.jpg
+        |-- house-sm-2.jpg
+        |-- house-sm-3.jpg
+        |-- house-sm-4.jpg
+        |-- house-sm-5.jpg
+        |-- house-sm-6.jpg
+        |-- house-sm-7.jpg
+        |-- house-sm-8.jpg
+        |-- house-sm-9.jpg
+    |-- location
+        |-- lo-sm-1.jpg
+        |-- lo-sm-2.jpg
+        |-- lo-sm-3.jpg
+        |-- lo-sm-4.jpg
+        |-- lo-sm-5.jpg
+        |-- lo-sm-6.jpg
+        |-- lo-sm-7.jpg
+        |-- lo-sm-8.jpg
+        |-- lo-sm-9.jpg
+        |-- location-1.jpg
+        |-- location-10.jpg
+        |-- location-11.jpg
+        |-- location-2.jpg
+        |-- location-3.jpg
+        |-- location-4.jpg
+        |-- location-5.jpg
+        |-- location-6.jpg
+        |-- location-7.jpg
+        |-- location-8.jpg
+        |-- location-9.jpg
+        |-- map-icon.png
+        |-- map-lo.png
+        |-- ui-icons.png
+    |-- logo
+        |-- favicon.png
+        |-- fb.jpg
+        |-- google.jpg
+        |-- logo-footer@2x.png
+        |-- logo@2x.png
+        |-- tw.jpg
+        |-- yourassetcare-white.png
+        |-- yourassetcare.png
+    |-- slider
+        |-- graplic-slider-2.png
+        |-- slider-1.jpg
+        |-- slider-2-1.jpg
+        |-- slider-2-2.jpg
+        |-- slider-2-3.jpg
+        |-- slider-2.jpg
+        |-- slider-3.jpg
+        |-- slider-5-1.jpg
+        |-- slider-5-2.jpg
+        |-- slider-5-3.jpg
+        |-- slider-5.jpg
+        |-- slider-contact.jpg
+        |-- slider-pagi.jpg
+        |-- slider-pagi2.jpg
+        |-- slider-pagi3.jpg
+        |-- slider-pagi4.jpg
+|-- index.php
+|-- js
+    |-- animation_heading.js
+    |-- bootstrap.min.js
+    |-- carousel.js
+    |-- chart-init.js
+    |-- chart.js
+    |-- countto.js
+    |-- infobox.min.js
+    |-- jquery-validate.js
+    |-- jquery.fancybox.js
+    |-- jquery.min.js
+    |-- jquery.nice-select.min.js
+    |-- jqueryui.min.js
+    |-- main.js
+    |-- map-contact.js
+    |-- map-single.js
+    |-- map.js
+    |-- marker.js
+    |-- one-page.min.js
+    |-- owl.html
+    |-- plugin.js
+    |-- rangle-slider.js
+    |-- shortcodes.js
+    |-- swiper-bundle.min.js
+    |-- tinymce
+        |-- tinymce-custom.js
+        |-- tinymce.min.js
+|-- login.php
+|-- logout.php
+|-- package-lock.json
+|-- package.json
+|-- process-contact.php
+|-- properties.php
+|-- property-details.php
+|-- README.md
+|-- register.php
